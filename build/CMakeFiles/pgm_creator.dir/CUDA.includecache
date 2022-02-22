@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zeasuo/csc_367/wanggon4/A4/pgm.h
+stdint.h
+-
+
+/home/zeasuo/csc_367/wanggon4/A4/pgm_creator.cu
+pgm.h
+/home/zeasuo/csc_367/wanggon4/A4/pgm.h
+stdio.h
+-
+stdlib.h
+-
+

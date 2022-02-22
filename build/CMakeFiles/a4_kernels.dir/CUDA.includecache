@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zeasuo/csc_367/wanggon4/A4/gpu_util.cu
+cuda.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+math.h
+-
+kernels.h
+/home/zeasuo/csc_367/wanggon4/A4/kernels.h
+
+/home/zeasuo/csc_367/wanggon4/A4/kernels.h
+

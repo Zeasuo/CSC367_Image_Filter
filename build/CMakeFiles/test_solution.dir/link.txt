@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test_solution.dir/tests.cu.o  -o test_solution   -L/usr/lib/x86_64-linux-gnu/stubs  -L/usr/lib/gcc/x86_64-linux-gnu/8  libpgm.a liba4_kernels.a lib/libgtestd.a -lpthread -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

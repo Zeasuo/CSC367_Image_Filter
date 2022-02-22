@@ -1,0 +1,1 @@
+/usr/lib/nvidia-cuda-toolkit/bin/g++  CMakeFiles/pgm_creator.dir/pgm_creator.cu.o -o pgm_creator  libpgm.a  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zeasuo/csc_367/wanggon4/A4/clock.h
+
+/home/zeasuo/csc_367/wanggon4/A4/kernels.h
+
+/home/zeasuo/csc_367/wanggon4/A4/main.cu
+stdio.h
+-
+string
+-
+unistd.h
+-
+pgm.h
+/home/zeasuo/csc_367/wanggon4/A4/pgm.h
+clock.h
+/home/zeasuo/csc_367/wanggon4/A4/clock.h
+kernels.h
+/home/zeasuo/csc_367/wanggon4/A4/kernels.h
+
+/home/zeasuo/csc_367/wanggon4/A4/pgm.h
+stdint.h
+-
+

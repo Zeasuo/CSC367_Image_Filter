@@ -1,0 +1,1 @@
+/usr/lib/nvidia-cuda-toolkit/bin/g++  CMakeFiles/main.dir/main.cu.o -o main  liba4_kernels.a  -L"/usr/lib/x86_64-linux-gnu/stubs" -L"/usr/lib/x86_64-linux-gnu" -lcudadevrt -lcudart_static -lrt -lpthread -ldl
